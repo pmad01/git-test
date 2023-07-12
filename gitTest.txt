@@ -1,2 +1,1 @@
-This is the initial state of this text file.
-This is the second state. I am adding a line.
+This is an experiment line.
